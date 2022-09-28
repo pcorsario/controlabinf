@@ -6,7 +6,8 @@
                 <!-- Logo -->
                 <div class="shrink-0 flex items-center">
                     <a href="{{ route('dashboard') }}">
-                        <x-jet-application-mark class="block h-9 w-auto" />
+                        {{-- <x-jet-application-mark class="block h-9 w-auto" /> --}}
+                        <img src="https://ueavolta.edu.ec/wp/wp-content/uploads/2022/09/sello2020.png" width="50" heigth="50" alt="" srcset="">
                     </a>
                 </div>
 
